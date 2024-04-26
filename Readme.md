@@ -36,6 +36,3 @@ This is a simple web page showcasing profiles of prominent investors associated 
    - *Co-Founder & CEO*
    ![Instamojo Logo](https://masai-website-images.s3.ap-south-1.amazonaws.com/instamojo_8763e704f7.png)
 
-## Preview
-
-![Masai Investors Preview](preview.png)
